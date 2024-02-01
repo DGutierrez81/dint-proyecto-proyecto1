@@ -1,0 +1,196 @@
+{
+  "name": "rutas_azul",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "258:775",
+    "version": "5077490455",
+    "component-id": "46168ebed5f916af5a86d10afbf991c233d8c6ab"
+  },
+  "default": "rutasAzul",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Rutas"
+      },
+      {
+        "type": "group",
+        "id": "circum:circle-chev-up"
+      },
+      {
+        "type": "vector",
+        "id": "Icono2"
+      },
+      {
+        "type": "vector",
+        "id": "Circulo2"
+      }
+    ],
+    "modes": {
+      "rutasAzul": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": "8.0",
+            "is-structured": "false",
+            "children": [
+              "Rutas",
+              "circum:circle-chev-up"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Rutas",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "tap-handler": "$on Rutas tapped",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Rutas",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          },
+          {
+            "id": "circum:circle-chev-up",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "70.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono2",
+              "Circulo2"
+            ]
+          },
+          {
+            "id": "Icono2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.500009298324585"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.4976261854171753"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.98292875289917"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.9876840114593506"
+              }
+            },
+            "vector-content": "icono2.svg"
+          },
+          {
+            "id": "Circulo2",
+            "margin": {
+              "left": "1.291874885559082",
+              "top": "1.292496919631958",
+              "right": "1.2918720245361328",
+              "bottom": "1.2912499904632568"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.00000667572021484375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "circulo2.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "on Rutas tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "rutasAzul",
+      "size": {
+        "width": 91.0,
+        "height": 24.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

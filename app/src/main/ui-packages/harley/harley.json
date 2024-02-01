@@ -1,0 +1,236 @@
+{
+  "name": "harley",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "324:749",
+    "version": "5068878407",
+    "component-id": "1a18cc7cf4ee17cc88b678c026a9572e2afcad49"
+  },
+  "default": "harley",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "FLHXS STREET GLIDE 1"
+      },
+      {
+        "type": "image",
+        "id": "fatBob 1"
+      },
+      {
+        "type": "image",
+        "id": "LowRider 1"
+      },
+      {
+        "type": "image",
+        "id": "LowriderS 1"
+      },
+      {
+        "type": "image",
+        "id": "NightRider 1"
+      },
+      {
+        "type": "image",
+        "id": "PanAmerica 1"
+      },
+      {
+        "type": "image",
+        "id": "SportGilde 1"
+      },
+      {
+        "type": "image",
+        "id": "Sportster 1"
+      }
+    ],
+    "modes": {
+      "harley": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "FLHXS STREET GLIDE 1",
+              "fatBob 1",
+              "LowRider 1",
+              "LowriderS 1",
+              "NightRider 1",
+              "PanAmerica 1",
+              "SportGilde 1",
+              "Sportster 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "FLHXS STREET GLIDE 1",
+            "margin": {
+              "right": "2814.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "flhxs_street_glide_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "fatBob 1",
+            "margin": {
+              "left": "400.0",
+              "right": "2414.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "fat_bob_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "LowRider 1",
+            "margin": {
+              "left": "800.0",
+              "right": "2014.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "low_rider_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "LowriderS 1",
+            "margin": {
+              "left": "1200.0",
+              "right": "1614.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "lowrider_s_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "NightRider 1",
+            "margin": {
+              "left": "1600.0",
+              "right": "1214.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "night_rider_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "PanAmerica 1",
+            "margin": {
+              "left": "2007.0",
+              "right": "807.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "pan_america_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "SportGilde 1",
+            "margin": {
+              "left": "2407.0",
+              "right": "407.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "sport_gilde_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Sportster 1",
+            "margin": {
+              "left": "2814.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "sportster_1.jpeg",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "harley",
+      "size": {
+        "width": 3214.0,
+        "height": 287.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

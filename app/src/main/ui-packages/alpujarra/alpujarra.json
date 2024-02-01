@@ -1,0 +1,247 @@
+{
+  "name": "alpujarra",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "107:96",
+    "version": "5066407452",
+    "component-id": "d1f0038bd3404b5c29fb7350981e3a827bc00134"
+  },
+  "default": "Alpujarra",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "RUTA POR LA ALPUJARRA"
+      },
+      {
+        "type": "image",
+        "id": "image 12"
+      },
+      {
+        "type": "text",
+        "id": "TextoMalaga"
+      },
+      {
+        "type": "image",
+        "id": "image 13"
+      },
+      {
+        "type": "image",
+        "id": "image aAlpujarra1"
+      },
+      {
+        "type": "image",
+        "id": "image aAlpujarra2"
+      }
+    ],
+    "modes": {
+      "Alpujarra": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "RUTA POR LA ALPUJARRA",
+              "image 12",
+              "TextoMalaga",
+              "image 13",
+              "image aAlpujarra1",
+              "image aAlpujarra2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "RUTA POR LA ALPUJARRA",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-350.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "357.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "\n\nRUTA POR LA ALPUJARRA\n\n\n\n\n",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "image 12",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-182.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_12.png",
+            "scale": "cover"
+          },
+          {
+            "id": "TextoMalaga",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "22.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "336.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "104.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Esta fantástica ruta de 212 km y unas tres horas de duración, nos permitirá descubrir la costa sur de la península y disfrutar de unas magníficas curvas a orillas del Mar Mediterráneo.Nuestra ruta partirá desde la playa de La Malagueta en Málaga por la N-340 en dirección este e iremos bordeando las numerosísimas y bonitas playas de la ciudad, La Caleta, la de Pedregalejo, Las Acacias; hasta pasar el barrio de El Candado y dejar atrás los límites de Málaga capital.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.2744140625",
+            "typeface": "Abel"
+          },
+          {
+            "id": "image 13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "229.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "280.0"
+              }
+            },
+            "image-content": "image_13.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image aAlpujarra1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "2.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-182.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_a_alpujarra1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image aAlpujarra2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "229.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "280.0"
+              }
+            },
+            "image-content": "image_a_alpujarra2.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Alpujarra",
+      "size": {
+        "width": 360.0,
+        "height": 734.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

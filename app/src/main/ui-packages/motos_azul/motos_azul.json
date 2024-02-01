@@ -1,0 +1,122 @@
+{
+  "name": "motos_azul",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "357:969",
+    "version": "5077490455",
+    "component-id": "1868deb69940cbef35b73a2afe7518b7785f078f"
+  },
+  "default": "MotosAzul",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2033614589"
+      },
+      {
+        "type": "adin_component",
+        "id": "MotsAzul",
+        "key": "rutas_azul"
+      },
+      {
+        "type": "text",
+        "id": "Mots4242"
+      }
+    ],
+    "modes": {
+      "MotosAzul": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 2033614589",
+              "MotsAzul",
+              "Mots4242"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 2033614589",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2033614589.svg"
+          },
+          {
+            "id": "MotsAzul"
+          },
+          {
+            "id": "Mots4242",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "tap-handler": "$on Mots4242 tapped",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Motos",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "on Mots4242 tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "MotosAzul",
+      "size": {
+        "width": 91.0,
+        "height": 24.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

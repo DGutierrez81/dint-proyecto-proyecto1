@@ -1,0 +1,236 @@
+{
+  "name": "picos",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "107:87",
+    "version": "5066438265",
+    "component-id": "f791d8b96a3cea997a7d5556a12f83d978eda7de"
+  },
+  "default": "Picos",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "PICOS DE EUROPA"
+      },
+      {
+        "type": "image",
+        "id": "image 10"
+      },
+      {
+        "type": "text",
+        "id": "Texto2 picos"
+      },
+      {
+        "type": "image",
+        "id": "image 11"
+      },
+      {
+        "type": "image",
+        "id": "picos1"
+      },
+      {
+        "type": "image",
+        "id": "picos2"
+      }
+    ],
+    "modes": {
+      "Picos": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "PICOS DE EUROPA",
+              "image 10",
+              "Texto2 picos",
+              "image 11",
+              "picos1",
+              "picos2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "PICOS DE EUROPA",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-383.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "PICOS DE EUROPA\n",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "image 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-238.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_10.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Texto2 picos",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-22.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "335.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Una de las opciones preferidas por los moteros es recorrer el Parque Nacional de los Picos de Europa, que se extiende por Asturias, Cantabria y Castilla y León. Carretera de montaña, puertos, miradores, desfiladeros se suceden a lo largo de este espacio de naturaleza extraordinaria. El itinerario más clásico es circular y recorre las carreteras entre Riaño (León), Unquera, en la costa cántabra, y Cangas de Onís (Asturias). Aunque depende mucho del itinerario que se escoja, puede rondar los 200 kilómetros.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.2744140625",
+            "typeface": "Abel"
+          },
+          {
+            "id": "image 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "192.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_11.png",
+            "scale": "cover"
+          },
+          {
+            "id": "picos1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-239.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "picos1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "picos2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "192.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "picos2.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Picos",
+      "size": {
+        "width": 360.0,
+        "height": 750.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

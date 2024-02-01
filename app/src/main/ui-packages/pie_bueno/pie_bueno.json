@@ -1,0 +1,236 @@
+{
+  "name": "pie_bueno",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "213:999",
+    "version": "5043122779",
+    "component-id": "4ca20c5fd6ca7c2da0127e1ad9555dae8bc0ef0d"
+  },
+  "default": "pieBueno",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "GroupHome"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "group",
+        "id": "GroupUsuario"
+      },
+      {
+        "type": "group",
+        "id": "home"
+      },
+      {
+        "type": "vector",
+        "id": "vectorHome"
+      },
+      {
+        "type": "group",
+        "id": "login"
+      },
+      {
+        "type": "vector",
+        "id": "vectorLogin"
+      }
+    ],
+    "modes": {
+      "pieBueno": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": "27.0",
+              "top": "13.0",
+              "right": "27.0",
+              "bottom": "13.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "GroupHome",
+              "Vector",
+              "GroupUsuario"
+            ],
+            "item-spacing": "88.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            }
+          },
+          {
+            "id": "GroupHome",
+            "tap-handler": "$grupoHome",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "home"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "GroupUsuario",
+            "padding": "2.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "login"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            }
+          },
+          {
+            "id": "home",
+            "is-structured": "false",
+            "children": [
+              "vectorHome"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            }
+          },
+          {
+            "id": "vectorHome",
+            "margin": {
+              "left": "5.0",
+              "top": "5.0",
+              "right": "4.997776031494141",
+              "bottom": "4.997776031494141"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_home.svg"
+          },
+          {
+            "id": "login",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "vectorLogin"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "vectorLogin",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              }
+            },
+            "vector-content": "vector_login.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "grupoHome": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "pieBueno",
+      "size": {
+        "width": 360.0,
+        "height": 56.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

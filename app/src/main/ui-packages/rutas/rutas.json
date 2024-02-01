@@ -1,0 +1,513 @@
+{
+  "name": "rutas",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "58:74",
+    "version": "5045722214",
+    "component-id": "4d97e9e6ec065009b96b6d7b3d1827677e7e8033"
+  },
+  "default": "default1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "RutasT1"
+      },
+      {
+        "type": "group",
+        "id": "flecha"
+      },
+      {
+        "type": "vector",
+        "id": "icono"
+      },
+      {
+        "type": "vector",
+        "id": "circulo"
+      },
+      {
+        "type": "group",
+        "id": "RutasAbierta"
+      },
+      {
+        "type": "group",
+        "id": "Elecciones"
+      },
+      {
+        "type": "text",
+        "id": "RutasT2"
+      },
+      {
+        "type": "group",
+        "id": "flechaUp"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "group",
+        "id": "BotonCosta"
+      },
+      {
+        "type": "group",
+        "id": "BotonSierra"
+      },
+      {
+        "type": "text",
+        "id": "Costa"
+      },
+      {
+        "type": "text",
+        "id": "Sierra"
+      }
+    ],
+    "modes": {
+      "default1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": "16.0",
+              "top": "8.0",
+              "right": "16.0",
+              "bottom": "8.0"
+            },
+            "border-radius": "8.0",
+            "tap-handler": "$on default1 tapped",
+            "arrangement": "row",
+            "children": [
+              "RutasT1",
+              "flecha"
+            ],
+            "item-spacing": "30.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "RutasT1",
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Rutas",
+            "overflow": "visible",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          },
+          {
+            "id": "flecha",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "icono",
+              "circulo"
+            ]
+          },
+          {
+            "id": "icono",
+            "margin": {
+              "left": "3.75",
+              "top": "4.680468559265137",
+              "right": "3.75",
+              "bottom": "5.90625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.00001239776611328125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono.svg"
+          },
+          {
+            "id": "circulo",
+            "margin": "0.9375",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "circulo.svg"
+          }
+        ]
+      },
+      "default2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "top": "5.0",
+              "bottom": "5.0"
+            },
+            "tap-handler": "$on default1 tapped",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "RutasAbierta",
+              "Elecciones"
+            ],
+            "item-spacing": "5.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "RutasAbierta",
+            "padding": {
+              "left": "16.0",
+              "top": "8.0",
+              "right": "16.0",
+              "bottom": "8.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "RutasT2",
+              "flechaUp"
+            ],
+            "item-spacing": "30.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Elecciones",
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "86.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "BotonCosta",
+              "BotonSierra"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "RutasT2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Rutas",
+            "overflow": "visible",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          },
+          {
+            "id": "flechaUp",
+            "relative-transform": [
+              [
+                "1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "-1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector2",
+              "Vector1"
+            ]
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "3.75",
+              "top": "4.6804680824279785",
+              "right": "3.75",
+              "bottom": "5.906250476837158"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.00000286102294921875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": "0.9375",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "BotonCosta",
+            "padding": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "18.0",
+              "bottom": "8.0"
+            },
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "tap-handler": "$on BotonCosta tapped",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Costa"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "BotonSierra",
+            "padding": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "18.0",
+              "bottom": "8.0"
+            },
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "48.0"
+              }
+            },
+            "tap-handler": "$on BotonSierra tapped",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Sierra"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Costa",
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Costa",
+            "overflow": "visible",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          },
+          {
+            "id": "Sierra",
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Sierra",
+            "overflow": "visible",
+            "text-size": "13.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "on default1 tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "on BotonCosta tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "on BotonSierra tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "default1",
+      "size": {
+        "width": 100.0,
+        "height": 30.0
+      }
+    },
+    {
+      "design": "default2",
+      "size": {
+        "width": 100.0,
+        "height": 133.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

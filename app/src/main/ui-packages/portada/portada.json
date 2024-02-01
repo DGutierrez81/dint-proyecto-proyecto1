@@ -1,0 +1,76 @@
+{
+  "name": "portada",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "149:1556",
+    "version": "5045785034",
+    "component-id": "d292774eb075bbdd44ca74aaa8d77a8650794f4a"
+  },
+  "default": "Portada",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "image 1"
+      }
+    ],
+    "modes": {
+      "Portada": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "image 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "image 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "420.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "460.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Portada",
+      "size": {
+        "width": 420.0,
+        "height": 460.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

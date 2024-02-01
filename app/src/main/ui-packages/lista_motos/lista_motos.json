@@ -1,0 +1,5975 @@
+{
+  "name": "lista_motos",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "336:1226",
+    "version": "5075065625",
+    "component-id": "a2704adf5d2ebf1f685b12ff3d05a913abb9a4ea"
+  },
+  "default": "ListaMotos",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Group 4"
+      },
+      {
+        "type": "group",
+        "id": "Group 5"
+      },
+      {
+        "type": "group",
+        "id": "Group 6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle"
+      },
+      {
+        "type": "image",
+        "id": "image 151"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 20336"
+      },
+      {
+        "type": "text",
+        "id": "KTM"
+      },
+      {
+        "type": "group",
+        "id": "Columna1"
+      },
+      {
+        "type": "group",
+        "id": "Columna"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 319"
+      },
+      {
+        "type": "group",
+        "id": "Frame 369"
+      },
+      {
+        "type": "group",
+        "id": "Frame 359"
+      },
+      {
+        "type": "group",
+        "id": "Frame 349"
+      },
+      {
+        "type": "group",
+        "id": "Frame 339"
+      },
+      {
+        "type": "group",
+        "id": "Frame 329"
+      },
+      {
+        "type": "group",
+        "id": "Frame 319"
+      },
+      {
+        "type": "group",
+        "id": "Frame 309"
+      },
+      {
+        "type": "group",
+        "id": "Frame 299"
+      },
+      {
+        "type": "group",
+        "id": "Frame 289"
+      },
+      {
+        "type": "group",
+        "id": "Frame 279"
+      },
+      {
+        "type": "group",
+        "id": "Frame 269"
+      },
+      {
+        "type": "group",
+        "id": "Frame 259"
+      },
+      {
+        "type": "group",
+        "id": "Frame 249"
+      },
+      {
+        "type": "group",
+        "id": "Frame 239"
+      },
+      {
+        "type": "group",
+        "id": "Frame 229"
+      },
+      {
+        "type": "group",
+        "id": "Frame 219"
+      },
+      {
+        "type": "group",
+        "id": "Frame 209"
+      },
+      {
+        "type": "group",
+        "id": "Frame 199"
+      },
+      {
+        "type": "text",
+        "id": "Precio19"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada19"
+      },
+      {
+        "type": "text",
+        "id": "Potencia19"
+      },
+      {
+        "type": "text",
+        "id": "Cambio19"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo19"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación19"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros19"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia19"
+      },
+      {
+        "type": "text",
+        "id": "Arranque19"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria19"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes19"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera19"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera19"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero19"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero19"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento19"
+      },
+      {
+        "type": "text",
+        "id": "Peso19"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito19"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 234233"
+      },
+      {
+        "type": "group",
+        "id": "Frame 18"
+      },
+      {
+        "type": "group",
+        "id": "Frame 171"
+      },
+      {
+        "type": "group",
+        "id": "Frame 16"
+      },
+      {
+        "type": "group",
+        "id": "Frame 15"
+      },
+      {
+        "type": "group",
+        "id": "Frame 14"
+      },
+      {
+        "type": "group",
+        "id": "Frame 13"
+      },
+      {
+        "type": "group",
+        "id": "Frame 12"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11"
+      },
+      {
+        "type": "group",
+        "id": "Frame 10"
+      },
+      {
+        "type": "group",
+        "id": "Frame 9"
+      },
+      {
+        "type": "group",
+        "id": "Frame 8"
+      },
+      {
+        "type": "group",
+        "id": "Frame 7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 6"
+      },
+      {
+        "type": "group",
+        "id": "Frame5"
+      },
+      {
+        "type": "group",
+        "id": "Frame 4"
+      },
+      {
+        "type": "group",
+        "id": "Frame 3"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2"
+      },
+      {
+        "type": "group",
+        "id": "Frame 1"
+      },
+      {
+        "type": "text",
+        "id": "Precio"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada"
+      },
+      {
+        "type": "text",
+        "id": "Potencia"
+      },
+      {
+        "type": "text",
+        "id": "Cambio"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia"
+      },
+      {
+        "type": "text",
+        "id": "Arranque"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento"
+      },
+      {
+        "type": "text",
+        "id": "Peso"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 20337"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 203361"
+      },
+      {
+        "type": "image",
+        "id": "image 152"
+      },
+      {
+        "type": "text",
+        "id": "Yamaha"
+      },
+      {
+        "type": "group",
+        "id": "Columna222"
+      },
+      {
+        "type": "group",
+        "id": "Columna255"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 32"
+      },
+      {
+        "type": "group",
+        "id": "Frame 362"
+      },
+      {
+        "type": "group",
+        "id": "Frame 352"
+      },
+      {
+        "type": "group",
+        "id": "Frame 342"
+      },
+      {
+        "type": "group",
+        "id": "Frame 332"
+      },
+      {
+        "type": "group",
+        "id": "Frame 322"
+      },
+      {
+        "type": "group",
+        "id": "Frame 312"
+      },
+      {
+        "type": "group",
+        "id": "Frame 302"
+      },
+      {
+        "type": "group",
+        "id": "Frame 292"
+      },
+      {
+        "type": "group",
+        "id": "Frame 282"
+      },
+      {
+        "type": "group",
+        "id": "Frame 272"
+      },
+      {
+        "type": "group",
+        "id": "Frame 262"
+      },
+      {
+        "type": "group",
+        "id": "Frame 252"
+      },
+      {
+        "type": "group",
+        "id": "Frame 242"
+      },
+      {
+        "type": "group",
+        "id": "Frame 232"
+      },
+      {
+        "type": "group",
+        "id": "Frame 222"
+      },
+      {
+        "type": "group",
+        "id": "Frame 212"
+      },
+      {
+        "type": "group",
+        "id": "Frame 202"
+      },
+      {
+        "type": "group",
+        "id": "Frame 192"
+      },
+      {
+        "type": "text",
+        "id": "Precio2"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada2"
+      },
+      {
+        "type": "text",
+        "id": "Potencia2"
+      },
+      {
+        "type": "text",
+        "id": "Cambio2"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo2"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación2"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros2"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia2"
+      },
+      {
+        "type": "text",
+        "id": "Arranque2"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria2"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes2"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera2"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera2"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero2"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero2"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento2"
+      },
+      {
+        "type": "text",
+        "id": "Peso2"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 222"
+      },
+      {
+        "type": "group",
+        "id": "Frame 182"
+      },
+      {
+        "type": "group",
+        "id": "Frame 172"
+      },
+      {
+        "type": "group",
+        "id": "Frame 162"
+      },
+      {
+        "type": "group",
+        "id": "Frame 152"
+      },
+      {
+        "type": "group",
+        "id": "Frame 142"
+      },
+      {
+        "type": "group",
+        "id": "Frame 132"
+      },
+      {
+        "type": "group",
+        "id": "Frame 122"
+      },
+      {
+        "type": "group",
+        "id": "Frame 112"
+      },
+      {
+        "type": "group",
+        "id": "Frame 102"
+      },
+      {
+        "type": "group",
+        "id": "Frame 92"
+      },
+      {
+        "type": "group",
+        "id": "Frame 82"
+      },
+      {
+        "type": "group",
+        "id": "Frame 72"
+      },
+      {
+        "type": "group",
+        "id": "Frame 62"
+      },
+      {
+        "type": "group",
+        "id": "Frame52"
+      },
+      {
+        "type": "group",
+        "id": "Frame 42"
+      },
+      {
+        "type": "group",
+        "id": "Frame 323"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2256"
+      },
+      {
+        "type": "group",
+        "id": "Frame 121"
+      },
+      {
+        "type": "text",
+        "id": "Precio22"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada22"
+      },
+      {
+        "type": "text",
+        "id": "Potencia22"
+      },
+      {
+        "type": "text",
+        "id": "Cambio22"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo22"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación22"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros22"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia22"
+      },
+      {
+        "type": "text",
+        "id": "Arranque22"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria22"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes22"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera22"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera22"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero22"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero22"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento22"
+      },
+      {
+        "type": "text",
+        "id": "Peso22"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito22"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 203362"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 20336144"
+      },
+      {
+        "type": "image",
+        "id": "image 15"
+      },
+      {
+        "type": "text",
+        "id": "Kawasaki z400"
+      },
+      {
+        "type": "group",
+        "id": "Columna3"
+      },
+      {
+        "type": "group",
+        "id": "Columna323"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 33"
+      },
+      {
+        "type": "group",
+        "id": "Frame 363"
+      },
+      {
+        "type": "group",
+        "id": "Frame 353"
+      },
+      {
+        "type": "group",
+        "id": "Frame 343"
+      },
+      {
+        "type": "group",
+        "id": "Frame 333"
+      },
+      {
+        "type": "group",
+        "id": "Frame 32354"
+      },
+      {
+        "type": "group",
+        "id": "Frame 313"
+      },
+      {
+        "type": "group",
+        "id": "Frame 303"
+      },
+      {
+        "type": "group",
+        "id": "Frame 293"
+      },
+      {
+        "type": "group",
+        "id": "Frame 283"
+      },
+      {
+        "type": "group",
+        "id": "Frame 273"
+      },
+      {
+        "type": "group",
+        "id": "Frame 263"
+      },
+      {
+        "type": "group",
+        "id": "Frame 253"
+      },
+      {
+        "type": "group",
+        "id": "Frame 243"
+      },
+      {
+        "type": "group",
+        "id": "Frame 233"
+      },
+      {
+        "type": "group",
+        "id": "Frame 223"
+      },
+      {
+        "type": "group",
+        "id": "Frame 213"
+      },
+      {
+        "type": "group",
+        "id": "Frame 203"
+      },
+      {
+        "type": "group",
+        "id": "Frame 193"
+      },
+      {
+        "type": "text",
+        "id": "Precio3"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada3"
+      },
+      {
+        "type": "text",
+        "id": "Potencia3"
+      },
+      {
+        "type": "text",
+        "id": "Cambio3"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo3"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación3"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros3"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia3"
+      },
+      {
+        "type": "text",
+        "id": "Arranque3"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria3"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes3"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera3"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera3"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero3"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero3"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento3"
+      },
+      {
+        "type": "text",
+        "id": "Peso3"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 18.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 17.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 16.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 15.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 14.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 13.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 12.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 10.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 9.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 8.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 7.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 6.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame5.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 4.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 3.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2.7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 1.7"
+      },
+      {
+        "type": "text",
+        "id": "Precio.7"
+      },
+      {
+        "type": "text",
+        "id": "Cilindrada.7"
+      },
+      {
+        "type": "text",
+        "id": "Potencia.7"
+      },
+      {
+        "type": "text",
+        "id": "Cambio.7"
+      },
+      {
+        "type": "text",
+        "id": "Ciclo.7"
+      },
+      {
+        "type": "text",
+        "id": "Refrigereación.7"
+      },
+      {
+        "type": "text",
+        "id": "Cilindros.7"
+      },
+      {
+        "type": "text",
+        "id": "Régimen potencia.7"
+      },
+      {
+        "type": "text",
+        "id": "Arranque.7"
+      },
+      {
+        "type": "text",
+        "id": "Trans.secundaria.7"
+      },
+      {
+        "type": "text",
+        "id": "Distancia ejes.7"
+      },
+      {
+        "type": "text",
+        "id": "Rueda delantera.7"
+      },
+      {
+        "type": "text",
+        "id": "Rueda trasera.7"
+      },
+      {
+        "type": "text",
+        "id": "Freno delantero.7"
+      },
+      {
+        "type": "text",
+        "id": "Freno trasero.7"
+      },
+      {
+        "type": "text",
+        "id": "Altura asiento.7"
+      },
+      {
+        "type": "text",
+        "id": "Peso.7"
+      },
+      {
+        "type": "text",
+        "id": "Capacidad depósito.7"
+      }
+    ],
+    "modes": {
+      "ListaMotos": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Group 4",
+              "Group 5",
+              "Group 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 4",
+            "margin": {
+              "left": "843.0",
+              "right": "24.0",
+              "bottom": "2.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle",
+              "image 151",
+              "Rectangle 20336",
+              "KTM",
+              "Columna1",
+              "Columna"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 5",
+            "margin": {
+              "left": "433.0",
+              "right": "434.0",
+              "bottom": "3.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 20337",
+              "Rectangle 203361",
+              "image 152",
+              "Yamaha",
+              "Columna222",
+              "Columna255"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 6",
+            "margin": {
+              "left": "25.0",
+              "right": "842.0",
+              "bottom": "2.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 203362",
+              "Rectangle 20336144",
+              "image 15",
+              "Kawasaki z400",
+              "Columna3",
+              "Columna323"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-2.5554351806640625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "404.8891296386719"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "855.0"
+              }
+            },
+            "vector-content": "rectangle.svg"
+          },
+          {
+            "id": "image 151",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5607757568359375"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-262.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "408.8783874511719"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "269.0"
+              }
+            },
+            "image-content": "image_151.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 20336",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5608062744140625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-412.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "408.8783874511719"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              }
+            },
+            "vector-content": "rectangle_20336.svg"
+          },
+          {
+            "id": "KTM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "3.7738189697265625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-396.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "198.36990356445312"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "KTM 390 Duke",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "24.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Columna1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-102.10498809814453"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "205.24851989746094"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "576.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 319",
+              "Frame 369",
+              "Frame 359",
+              "Frame 349",
+              "Frame 339",
+              "Frame 329",
+              "Frame 319",
+              "Frame 309",
+              "Frame 299",
+              "Frame 289",
+              "Frame 279",
+              "Frame 269",
+              "Frame 259",
+              "Frame 249",
+              "Frame 239",
+              "Frame 229",
+              "Frame 219",
+              "Frame 209",
+              "Frame 199"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Columna",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "100.15765380859375"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.2596435546875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "576.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 234233",
+              "Frame 18",
+              "Frame 171",
+              "Frame 16",
+              "Frame 15",
+              "Frame 14",
+              "Frame 13",
+              "Frame 12",
+              "Frame 11",
+              "Frame 10",
+              "Frame 9",
+              "Frame 8",
+              "Frame 7",
+              "Frame 6",
+              "Frame5",
+              "Frame 4",
+              "Frame 3",
+              "Frame 2",
+              "Frame 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 319",
+            "margin": {
+              "left": "3.36474609375",
+              "bottom": "256.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_319.svg"
+          },
+          {
+            "id": "Frame 369",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "right": "1.1215667724609375",
+              "bottom": "544.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 359",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "32.0",
+              "right": "1.1215667724609375",
+              "bottom": "512.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 349",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "64.0",
+              "right": "1.1215667724609375",
+              "bottom": "480.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 339",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "96.0",
+              "right": "1.1215667724609375",
+              "bottom": "448.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 329",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "128.0",
+              "right": "1.1215667724609375",
+              "bottom": "416.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 319",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "160.0",
+              "right": "1.1215667724609375",
+              "bottom": "384.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 309",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "192.0",
+              "right": "1.1215667724609375",
+              "bottom": "352.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 299",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "224.0",
+              "right": "1.1215667724609375",
+              "bottom": "320.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 289",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "256.0",
+              "right": "1.1215667724609375",
+              "bottom": "288.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 279",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "288.0",
+              "right": "1.1215667724609375",
+              "bottom": "256.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 269",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "320.0",
+              "right": "1.1215667724609375",
+              "bottom": "224.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 259",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "352.0",
+              "right": "1.1215667724609375",
+              "bottom": "192.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 249",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "384.0",
+              "right": "1.1215667724609375",
+              "bottom": "160.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 239",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "416.0",
+              "right": "1.1215667724609375",
+              "bottom": "128.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 229",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "448.0",
+              "right": "1.1215667724609375",
+              "bottom": "96.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 219",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "480.0",
+              "right": "1.1215667724609375",
+              "bottom": "64.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 209",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "512.0",
+              "right": "1.1215667724609375",
+              "bottom": "32.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 199",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.2431640625",
+              "top": "544.0",
+              "right": "1.1215667724609375"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito19"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "text-content": "Precio",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindrada",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cambio",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ciclo",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Refrigereación",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Régimen potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Arranque",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Trans.secundaria",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Distancia ejes",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda delantera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda trasera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno delantero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno trasero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Altura asiento",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Peso",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito19",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Capacidad depósito",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rectangle 234233",
+            "margin": {
+              "left": "3.38134765625",
+              "bottom": "256.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_234233.svg"
+          },
+          {
+            "id": "Frame 18",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "right": "1.127166748046875",
+              "bottom": "544.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 171",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "32.0",
+              "right": "1.127166748046875",
+              "bottom": "512.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 16",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "64.0",
+              "right": "1.127166748046875",
+              "bottom": "480.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 15",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "96.0",
+              "right": "1.127166748046875",
+              "bottom": "448.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 14",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "128.0",
+              "right": "1.127166748046875",
+              "bottom": "416.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 13",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "160.0",
+              "right": "1.127166748046875",
+              "bottom": "384.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 12",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "192.0",
+              "right": "1.127166748046875",
+              "bottom": "352.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 11",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "224.0",
+              "right": "1.127166748046875",
+              "bottom": "320.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 10",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "256.0",
+              "right": "1.127166748046875",
+              "bottom": "288.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 9",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "288.0",
+              "right": "1.127166748046875",
+              "bottom": "256.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 8",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "320.0",
+              "right": "1.127166748046875",
+              "bottom": "224.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "352.0",
+              "right": "1.127166748046875",
+              "bottom": "192.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 6",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "384.0",
+              "right": "1.127166748046875",
+              "bottom": "160.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame5",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "416.0",
+              "right": "1.127166748046875",
+              "bottom": "128.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 4",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "448.0",
+              "right": "1.127166748046875",
+              "bottom": "96.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 3",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "480.0",
+              "right": "1.127166748046875",
+              "bottom": "64.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 2",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "512.0",
+              "right": "1.127166748046875",
+              "bottom": "32.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 1",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.254150390625",
+              "top": "544.0",
+              "right": "1.127166748046875"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "6.049 €",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "373 cc",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "44 cv",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Manual",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "4 T",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Líquida",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "9000",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Eléctrico",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cadena",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1357",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "110/70 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "150/60 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "830",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "149 Kg",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "13 litros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rectangle 20337",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.40899658203125"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-0.4976806640625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.1820068359375"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "853.004638671875"
+              }
+            },
+            "vector-content": "rectangle_20337.svg"
+          },
+          {
+            "id": "Rectangle 203361",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.28106689453125"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-411.5361728668213"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.1820068359375"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.927654266357422"
+              }
+            },
+            "vector-content": "rectangle_203361.svg"
+          },
+          {
+            "id": "image 152",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.40899658203125"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-261.88621520996094"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.1820068359375"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "268.3722229003906"
+              }
+            },
+            "image-content": "image_152.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Yamaha",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "14.764900207519531"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-380.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "221.46827697753906"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Yamaha MT-03",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "24.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Columna222",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-100.66667175292969"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.672119140625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.41079711914062"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "574.65576171875"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 32",
+              "Frame 362",
+              "Frame 352",
+              "Frame 342",
+              "Frame 332",
+              "Frame 322",
+              "Frame 312",
+              "Frame 302",
+              "Frame 292",
+              "Frame 282",
+              "Frame 272",
+              "Frame 262",
+              "Frame 252",
+              "Frame 242",
+              "Frame 232",
+              "Frame 222",
+              "Frame 212",
+              "Frame 202",
+              "Frame 192"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Columna255",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "101.79450988769531"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.327880859375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.41079711914062"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "574.65576171875"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 222",
+              "Frame 182",
+              "Frame 172",
+              "Frame 162",
+              "Frame 152",
+              "Frame 142",
+              "Frame 132",
+              "Frame 122",
+              "Frame 112",
+              "Frame 102",
+              "Frame 92",
+              "Frame 82",
+              "Frame 72",
+              "Frame 62",
+              "Frame52",
+              "Frame 42",
+              "Frame 323",
+              "Frame 2256",
+              "Frame 121"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 32",
+            "margin": {
+              "left": "3.3837890625",
+              "bottom": "255.40255737304688"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_32.svg"
+          },
+          {
+            "id": "Frame 362",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "right": "1.1279296875",
+              "bottom": "542.7304420471191"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 352",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "31.92529296875",
+              "right": "1.1279296875",
+              "bottom": "510.80514907836914"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 342",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "63.8505859375",
+              "right": "1.1279296875",
+              "bottom": "478.8798522949219"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 332",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "95.7760009765625",
+              "right": "1.1279296875",
+              "bottom": "446.9544448852539"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 322",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "127.7012939453125",
+              "right": "1.1279296875",
+              "bottom": "415.0291442871094"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 312",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "159.6265869140625",
+              "right": "1.1279296875",
+              "bottom": "383.1038513183594"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 302",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "191.5518798828125",
+              "right": "1.1279296875",
+              "bottom": "351.17857360839844"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 292",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "223.477294921875",
+              "right": "1.1279296875",
+              "bottom": "319.2531433105469"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 282",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "255.402587890625",
+              "right": "1.1279296875",
+              "bottom": "287.3278503417969"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 272",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "287.327880859375",
+              "right": "1.1279296875",
+              "bottom": "255.40255737304688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 262",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "319.253173828125",
+              "right": "1.1279296875",
+              "bottom": "223.47726440429688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 252",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "351.178466796875",
+              "right": "1.1279296875",
+              "bottom": "191.55197143554688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 242",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "383.1038818359375",
+              "right": "1.1279296875",
+              "bottom": "159.62655639648438"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 232",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "415.0291748046875",
+              "right": "1.1279296875",
+              "bottom": "127.7012939453125"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 222",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "446.9544677734375",
+              "right": "1.1279296875",
+              "bottom": "95.77597045898438"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 212",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "478.8797607421875",
+              "right": "1.1279296875",
+              "bottom": "63.850677490234375"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 202",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "510.80517578125",
+              "right": "1.1279296875",
+              "bottom": "31.92523193359375"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 192",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "542.73046875",
+              "right": "1.1279296875"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito2"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "text-content": "Precio",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindrada",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cambio",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ciclo",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Refrigereación",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Régimen potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Arranque",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Trans.secundaria",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Distancia ejes",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda delantera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda trasera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno delantero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno trasero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Altura asiento",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Peso",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Capacidad depósito",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rectangle 222",
+            "margin": {
+              "left": "3.3837890625",
+              "bottom": "255.40255737304688"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_222.svg"
+          },
+          {
+            "id": "Frame 182",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "right": "1.1279296875",
+              "bottom": "542.7304420471191"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 172",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "31.92529296875",
+              "right": "1.1279296875",
+              "bottom": "510.80514907836914"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 162",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "63.8505859375",
+              "right": "1.1279296875",
+              "bottom": "478.8798522949219"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 152",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "95.7760009765625",
+              "right": "1.1279296875",
+              "bottom": "446.9544448852539"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 142",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "127.7012939453125",
+              "right": "1.1279296875",
+              "bottom": "415.0291442871094"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 132",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "159.6265869140625",
+              "right": "1.1279296875",
+              "bottom": "383.1038513183594"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 122",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "191.5518798828125",
+              "right": "1.1279296875",
+              "bottom": "351.17857360839844"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 112",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "223.477294921875",
+              "right": "1.1279296875",
+              "bottom": "319.2531433105469"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 102",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "255.402587890625",
+              "right": "1.1279296875",
+              "bottom": "287.3278503417969"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 92",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "287.327880859375",
+              "right": "1.1279296875",
+              "bottom": "255.40255737304688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 82",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "319.253173828125",
+              "right": "1.1279296875",
+              "bottom": "223.47726440429688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 72",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "351.178466796875",
+              "right": "1.1279296875",
+              "bottom": "191.55197143554688"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 62",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "383.1038818359375",
+              "right": "1.1279296875",
+              "bottom": "159.62655639648438"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame52",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "415.0291748046875",
+              "right": "1.1279296875",
+              "bottom": "127.7012939453125"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 42",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "446.9544677734375",
+              "right": "1.1279296875",
+              "bottom": "95.77597045898438"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 323",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "478.8797607421875",
+              "right": "1.1279296875",
+              "bottom": "63.850677490234375"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 2256",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "510.80517578125",
+              "right": "1.1279296875",
+              "bottom": "31.92523193359375"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 121",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.255859375",
+              "top": "542.73046875",
+              "right": "1.1279296875"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito22"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "6.399 €",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "321 cc",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "45 cv",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Manual",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "4 T",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Líquida",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "10750",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Eléctrico",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cadena",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1380",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "110/70 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "140/70 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "780",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "154 Kg",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito22",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "14 litros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rectangle 203362",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.1294403076171875"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.7411193847656"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "855.0"
+              }
+            },
+            "vector-content": "rectangle_203362.svg"
+          },
+          {
+            "id": "Rectangle 20336144",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.1294403076171875"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-412.0361728668213"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.7411193847656"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.927654266357422"
+              }
+            },
+            "vector-content": "rectangle_20336144.svg"
+          },
+          {
+            "id": "image 15",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.694183349609375"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-262.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "406.61163330078125"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "269.0"
+              }
+            },
+            "image-content": "image_15.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Kawasaki z400",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-1.1294403076171875"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-396.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "193.14053344726562"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Kawasaki z400",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "24.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Columna3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-101.65287780761719"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.69424438476562"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "576.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 33",
+              "Frame 363",
+              "Frame 353",
+              "Frame 343",
+              "Frame 333",
+              "Frame 32354",
+              "Frame 313",
+              "Frame 303",
+              "Frame 293",
+              "Frame 283",
+              "Frame 273",
+              "Frame 263",
+              "Frame 253",
+              "Frame 243",
+              "Frame 233",
+              "Frame 223",
+              "Frame 213",
+              "Frame 203",
+              "Frame 193"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Columna323",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "101.65303039550781"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "139.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.69424438476562"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "576.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 2.7",
+              "Frame 18.7",
+              "Frame 17.7",
+              "Frame 16.7",
+              "Frame 15.7",
+              "Frame 14.7",
+              "Frame 13.7",
+              "Frame 12.7",
+              "Frame 11.7",
+              "Frame 10.7",
+              "Frame 9.7",
+              "Frame 8.7",
+              "Frame 7.7",
+              "Frame 6.7",
+              "Frame5.7",
+              "Frame 4.7",
+              "Frame 3.7",
+              "Frame 2.7",
+              "Frame 1.7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 33",
+            "margin": {
+              "left": "3.388427734375",
+              "bottom": "256.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_33.svg"
+          },
+          {
+            "id": "Frame 363",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "right": "1.12939453125",
+              "bottom": "544.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 353",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "32.0",
+              "right": "1.12939453125",
+              "bottom": "512.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 343",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "64.0",
+              "right": "1.12939453125",
+              "bottom": "480.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 333",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "96.0",
+              "right": "1.12939453125",
+              "bottom": "448.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 32354",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "128.0",
+              "right": "1.12939453125",
+              "bottom": "416.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 313",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "160.0",
+              "right": "1.12939453125",
+              "bottom": "384.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 303",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "192.0",
+              "right": "1.12939453125",
+              "bottom": "352.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 293",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "224.0",
+              "right": "1.12939453125",
+              "bottom": "320.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 283",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "256.0",
+              "right": "1.12939453125",
+              "bottom": "288.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 273",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "288.0",
+              "right": "1.12939453125",
+              "bottom": "256.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 263",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "320.0",
+              "right": "1.12939453125",
+              "bottom": "224.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 253",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "352.0",
+              "right": "1.12939453125",
+              "bottom": "192.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 243",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "384.0",
+              "right": "1.12939453125",
+              "bottom": "160.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 233",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "416.0",
+              "right": "1.12939453125",
+              "bottom": "128.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 223",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "448.0",
+              "right": "1.12939453125",
+              "bottom": "96.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 213",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "480.0",
+              "right": "1.12939453125",
+              "bottom": "64.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 203",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "512.0",
+              "right": "1.12939453125",
+              "bottom": "32.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 193",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "544.0",
+              "right": "1.12939453125"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito3"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "20.0",
+              "saturation": "0.12",
+              "value": "0.09803921568627451"
+            },
+            "text-content": "Precio",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindrada",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cambio",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ciclo",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Refrigereación",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cilindros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Régimen potencia",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Arranque",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Trans.secundaria",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Distancia ejes",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda delantera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Rueda trasera",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno delantero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Freno trasero",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Altura asiento",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Peso",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Capacidad depósito",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rectangle 2.7",
+            "margin": {
+              "left": "3.388427734375",
+              "bottom": "256.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2_7.svg"
+          },
+          {
+            "id": "Frame 18.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "right": "1.12939453125",
+              "bottom": "544.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Precio.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 17.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "32.0",
+              "right": "1.12939453125",
+              "bottom": "512.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindrada.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 16.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "64.0",
+              "right": "1.12939453125",
+              "bottom": "480.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Potencia.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 15.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "96.0",
+              "right": "1.12939453125",
+              "bottom": "448.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cambio.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 14.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "128.0",
+              "right": "1.12939453125",
+              "bottom": "416.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Ciclo.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 13.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "160.0",
+              "right": "1.12939453125",
+              "bottom": "384.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Refrigereación.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 12.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "192.0",
+              "right": "1.12939453125",
+              "bottom": "352.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Cilindros.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 11.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "224.0",
+              "right": "1.12939453125",
+              "bottom": "320.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Régimen potencia.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 10.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "256.0",
+              "right": "1.12939453125",
+              "bottom": "288.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Arranque.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 9.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "288.0",
+              "right": "1.12939453125",
+              "bottom": "256.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Trans.secundaria.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9607843137254902"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 8.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "320.0",
+              "right": "1.12939453125",
+              "bottom": "224.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Distancia ejes.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 7.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "352.0",
+              "right": "1.12939453125",
+              "bottom": "192.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda delantera.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 6.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "384.0",
+              "right": "1.12939453125",
+              "bottom": "160.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Rueda trasera.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame5.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "416.0",
+              "right": "1.12939453125",
+              "bottom": "128.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno delantero.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 4.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "448.0",
+              "right": "1.12939453125",
+              "bottom": "96.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Freno trasero.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 3.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "480.0",
+              "right": "1.12939453125",
+              "bottom": "64.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Altura asiento.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 2.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "512.0",
+              "right": "1.12939453125",
+              "bottom": "32.0"
+            },
+            "arrangement": "row",
+            "children": [
+              "Peso.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "235.1612903225806",
+              "saturation": "0.2510121457489879",
+              "value": "0.9686274509803922"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 1.7",
+            "padding": {
+              "left": "55.0",
+              "right": "55.0"
+            },
+            "margin": {
+              "left": "2.259033203125",
+              "top": "544.0",
+              "right": "1.12939453125"
+            },
+            "arrangement": "row",
+            "children": [
+              "Capacidad depósito.7"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Precio.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "5.775 €",
+            "overflow": "visible",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindrada.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "399 cc",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Potencia.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "45 cv",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cambio.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Manual",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Ciclo.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2 T",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Refrigereación.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Líquida",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Cilindros.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Régimen potencia.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "10000",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Arranque.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Eléctrico",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Trans.secundaria.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cadena",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Distancia ejes.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1370",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda delantera.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "110/70 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Rueda trasera.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "150/60 x 17\"",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno delantero.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Freno trasero.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Disco",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Altura asiento.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "785",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Peso.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "153 Kg",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "Capacidad depósito.7",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "14 litros",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "ListaMotos",
+      "size": {
+        "width": 1277.0,
+        "height": 855.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

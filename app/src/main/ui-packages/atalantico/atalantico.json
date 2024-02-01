@@ -1,0 +1,186 @@
+{
+  "name": "atalantico",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "107:102",
+    "version": "5057799589",
+    "component-id": "cab33bd59033823ba742f7e0c06262d366b61168"
+  },
+  "default": "Atalantico",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Texto2 Atlanctico"
+      },
+      {
+        "type": "image",
+        "id": "image 14"
+      },
+      {
+        "type": "text",
+        "id": "Texto Atlantico"
+      }
+    ],
+    "modes": {
+      "Atalantico": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Texto2 Atlanctico",
+              "image 14",
+              "Texto Atlantico"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Texto2 Atlanctico",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-213.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "353.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ruta motera del Atlántico hasta el atardecer",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "image 14",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-52.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "280.0"
+              }
+            },
+            "image-content": "image_14.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Texto Atlantico",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "160.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "335.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "La última de nuestras rutas en moto costeras, de 150 kilómetros y dos horas y media de duración en la que nos adentraremos por tierras gallegas, nos llevará a dos de los puntos más occidentales de la geografía española. Nuestro itinerario arrancará desde el puerto de Corrubedo, en el municipio de Riveira (Provincia de A Coruña), en donde, nos toparemos con las primeras zonas a visitar en esta ruta: el Faro y las dunas de Corrubedo, un espacio natural protegido de 1 kilómetro de longitud y 20 metros de altura.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "416",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "typeface": "Abel"
+                  }
+                },
+                {
+                  "span-start": "416",
+                  "span-length": "18",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "underline": "true",
+                    "typeface": "Abel"
+                  }
+                },
+                {
+                  "span-start": "434",
+                  "span-length": "80",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "typeface": "Abel"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Atalantico",
+      "size": {
+        "width": 360.0,
+        "height": 449.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,217 @@
+{
+  "name": "san_sebastian",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "107:87",
+    "version": "5057269639",
+    "component-id": "f791d8b96a3cea997a7d5556a12f83d978eda7de"
+  },
+  "default": "San Sebastian",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Ruta en moto desde San Sebastián hasta San Juan de Gaztelugatxe"
+      },
+      {
+        "type": "image",
+        "id": "image 10"
+      },
+      {
+        "type": "text",
+        "id": "Texto2 San Sebastian"
+      },
+      {
+        "type": "image",
+        "id": "image 11"
+      },
+      {
+        "type": "text",
+        "id": "Texto San Sebastian"
+      }
+    ],
+    "modes": {
+      "San Sebastian": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Ruta en moto desde San Sebastián hasta San Juan de Gaztelugatxe",
+              "image 10",
+              "Texto2 San Sebastian",
+              "image 11",
+              "Texto San Sebastian"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ruta en moto desde San Sebastián hasta San Juan de Gaztelugatxe",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-390.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ruta en moto desde San Sebastián hasta San Juan de Gaztelugatxe",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "line-height": "1.3489999771118164",
+            "typeface": "Abril Fatface"
+          },
+          {
+            "id": "image 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-237.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_10.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Texto2 San Sebastian",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-22.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "335.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "En esta ruta de cerca de 116 Km y aproximadamente dos horas y media de duración circularemos por carreteras nacionales y comarcales disfrutando de pilotar entre bosques, montañas y el mar.\nNuestro punto de partida será la hermosa ciudad de Donostia-San Sebastián. Tras disfrutar de los tradicionales pintxos en la parte vieja de la capital guipuzcoana, arrancaremos dirección oeste para bordear el marco incomparable de la Bahía de la Concha y la playa de Ondarreta hasta llegar a la carretera que da acceso a la subida del monte Igeldo.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.2744140625",
+            "typeface": "Abel"
+          },
+          {
+            "id": "image 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "192.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              }
+            },
+            "image-content": "image_11.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Texto San Sebastian",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "371.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "335.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Con nuestro objetivo cumplido, tendremos la posibilidad de volver sobre nuestros pasos o, si lo deseáis, acercaros a Bilbao para redondear la jornada de nuestra ruta en moto por la costa.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.2744140625",
+            "typeface": "Abel"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "San Sebastian",
+      "size": {
+        "width": 360.0,
+        "height": 795.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

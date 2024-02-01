@@ -1,0 +1,156 @@
+{
+  "name": "cabecera",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "79:47",
+    "version": "5043602681",
+    "component-id": "e242ad7ab3b79e1b8f0e61385c604554d9c2522c"
+  },
+  "default": "Cabecera",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "text",
+        "id": "muR"
+      },
+      {
+        "type": "image",
+        "id": "cascoAlas_preview_rev_1 1"
+      },
+      {
+        "type": "text",
+        "id": "Rum"
+      }
+    ],
+    "modes": {
+      "Cabecera": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 1",
+              "muR",
+              "cascoAlas_preview_rev_1 1",
+              "Rum"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 1",
+            "margin": {
+              "bottom": "1.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "muR",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-67.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-10.5"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "muR",
+            "overflow": "visible",
+            "text-size": "40.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          },
+          {
+            "id": "cascoAlas_preview_rev_1 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "54.0"
+              }
+            },
+            "image-content": "casco_alas_preview_rev_1_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rum",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "67.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-10.5"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "37.50000000000008",
+              "saturation": "0.037914691943127965",
+              "value": "0.8274509803921568"
+            },
+            "text-content": "Rum ",
+            "overflow": "visible",
+            "text-size": "40.0",
+            "line-height": "1.2568359375",
+            "typeface": "Fjalla One"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Cabecera",
+      "size": {
+        "width": 450.0,
+        "height": 57.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

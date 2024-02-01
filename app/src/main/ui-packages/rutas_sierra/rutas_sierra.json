@@ -1,0 +1,75 @@
+{
+  "name": "rutas_sierra",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "mWw7uoIKh232SbrwDLYSOe",
+    "node": "107:54",
+    "version": "5066581254",
+    "component-id": "2f79ab142371474aa5eaa6cf88a39e8ab6735ad2"
+  },
+  "default": "Rutas sierra",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Rutas de sierra"
+      }
+    ],
+    "modes": {
+      "Rutas sierra": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rutas de sierra"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rutas de sierra",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "234.73684210526318",
+              "saturation": "0.7354838709677419",
+              "value": "0.6078431372549019"
+            },
+            "text-content": "Rutas de sierra",
+            "overflow": "visible",
+            "text-size": "36.0",
+            "line-height": "1.0629999372694228",
+            "typeface": "Faster One"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Rutas sierra",
+      "size": {
+        "width": 337.0,
+        "height": 38.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
